@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "7 Ideas"
+date:   2019-05-22 14:54:00 -0400
+categories: ideas
+---
+
+1. **Micro-Consulting** - Fiverr meets Kickstarter meets McKinsey. Domain experts make extra cash by providing light-weight consulting services to companies ISO of feedback. A client can post, "thoughts on this new billboard design?". Then, design experts leave feedback and community members can upvote the best insights.
+
+2. **Employee-Culture Fit Suggestion Engine** - Some companies may have internal models that help them evaluate whether or not an employee will be a good fit, but I wish there was some kind of ML model that could tell ME where I should apply! Why can't we make everyone in the world take a personality test, and then train a model that tells me what company, culture, and workplace I would like the best.
+
+3. **Finding Startup Ideas From Stack Overflow** - One way to figure out what tools developers need is to browse Stack Overflow. I suspect that whichever topics on Stack Overflow have the most unanswered or the most heavily-debated questions are probably indicative of a pain-point or a market that lacks one good solution.
+
+4. **Embryo-Browsing SaaS Platform for Fertility Clinics** - (I understand that there's a lot of controversy around the emerging trend of *designer babies*, but I still think this is a viable idea.) Some high-end fertility clinics allow customers to choose embryos based on the expected eye-color or gender of the baby. Why don't they have a SaaS platform that allows their clients to visualize and browse the profiles of each embryo? This will become even more useful as fertility clinics begin to offer more (for lack of a better word) *customization* options. I imagine some clinics will soon allow parents to choose an embryo based on height, intelligence, etc. Software can make that UX better.
+
+5. **Machine Learning for College Admissions Yield** - Before deciding to admit an applicant, college admissions officers have to decide whether or not they think the applicant will acceptance the offer of admission. This is because college admissions officers are constantly trying to do maximize their *yield* (the % of students who accept their admission and matriculate). I want to create a machine learning model trained on several features (GPA, hometown, SAT score, essay score, class rank, number of times the student visited the college) to calculate a likelihood that the student, if admitted, would come to the school. I reached out to Dartmouth admissions office about this, but they haven't gotten back to me.
+
+6. **Caffeine Vape** - Juul for caffeine.
+
+7. **Podcast of Startups the Failed** - The tech industry has an (understandable) selection bias. The only founders who are podcast guests or keynote speakers at conferences are the ones who succeeded wildly. I think we have a lot to learn from the founders who failed. What made them so SURE their idea was promising? What common traps do all failed founders fall into? I would love a podcast that only interviews failed Y Combinator start-ups. They need to be start-ups that seemed promising but ultimately failed.
