@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "4 Ideas"
+date:   2019-07-01 14:54:00 -0400
+categories: ideas
+---
+
+1. **Streamline Decision-Making UX** - Imagine you're a manager, and your 5 direct reports all have questions for you. Why should you have to go between your texts, email, and slack messages to tackle those decisions? You should have one feed where all your actual decision-making takes place.
+
+2. **News Site that Links to Related Historical Events** - Right now the story of the ICE-run detention facilities are all over the news. I talked to my history professor about it, and she said that there are so many historical parallels that are relevant to this headline. One specific example is Japanese Internment. Imagine if there was a news website that provided historical context to its stories. If the story is about ICE, there would be a link to the Wikipedia page for Japanese Internment.
+
+3. **Travel Pairings for Singles** - I really want to go to Thailand, but I can't convince any of my friends to go with me. I would use a service that paired me with random people who just wanted to travel on similar dates. We wouldn't have to hang out, but we split costs like transportation and lodging.
+
+4. **Penmanship Decoder** - An Augmented Reality mobile app that allows you to convert written word to text. Killer feature would that it can accurately understand very messy handwriting using Artificial intelligence and computation.
