@@ -4,4 +4,4 @@
 
 layout: home
 ---
-![zionpic](assets/zion.jpg)
+![profile](assets/profile.jpg)

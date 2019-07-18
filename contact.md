@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contact
-permalink: /contact/
+title: Portfolio
+permalink: /portfolio/
 ---
 
 My named is Teddy Wahle.
