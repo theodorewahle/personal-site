@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "2 Ideas"
+date:   2019-07-23 14:54:00 -0400
+categories: ideas
+---
+
+1. **Interactive Documentation** - What if reading docs felt like doing a module on Codecademy? I want to build this. A platform on which anyone creating an API or a Library can make a "documentation course" that allows you to learn how to use that developer tool in a fun and interactive way.
+
+2. **Poker Tutor** - An offline Texas Hold 'Em app that helps you learn how to properly play Texas Hold 'Em by helping you calculate the probability that you will win based on the cards that are on the table.
