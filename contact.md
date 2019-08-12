@@ -4,6 +4,16 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
+# Connected Car API
+
+![My helpful screenshot](/assets/smartcar.png)
+
+Your car is now a computer. You can lock/unlock the doors, check the fuel tank level, or start the engine all through an API. Use the test vehicleIds `1234` and `1235` to try it out.
+
+[Demo](http://smartcar.surge.sh/#smartcar)
+
+[Source](https://github.com/theodorewahle/smartcar-api)
+
 # Hot Button: Twitter Search
 
 ![My helpful screenshot](/assets/hot_button.png)
