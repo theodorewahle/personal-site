@@ -4,6 +4,16 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
+# 3D-Drawing iOS app
+
+![My helpful screenshot](/assets/draw3d.png)
+
+Draw in 3D. This app was built for iOS using ARKit.
+
+[Source](https://github.com/theodorewahle/ar-kit-drawing)
+
+___
+
 # Connected Car API
 
 ![My helpful screenshot](/assets/smartcar.png)
@@ -13,6 +23,8 @@ Your car is now a computer. You can lock/unlock the doors, check the fuel tank l
 [Demo](http://smartcar.surge.sh/#smartcar)
 
 [Source](https://github.com/theodorewahle/smartcar-api)
+
+___
 
 # Hot Button: Twitter Search
 
